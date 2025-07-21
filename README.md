@@ -1,7 +1,7 @@
-### MULLA-LITE
+## MULLA-LITE
 - This is a mini app simulating a mobile money service that puts into practice and tests out system design concepts.
 
-## FEATURES
+### FEATURES
 Users can be able to
 - Register for the service
 - Deposit money
